@@ -1,0 +1,11 @@
+## Interface: 16001
+## Title: Bank Visor
+## Notes: View your bank and guild bank from anywhere
+## SavedVariables: BankVisorDB
+
+Core.lua
+Locale.lua
+Compat.lua
+Scan.lua
+UI.lua
+Minimap.lua
