@@ -2,7 +2,10 @@
 
 A read-only addon for **World of Warcraft Forever** (1.60.1) that lets you check your personal bank and your guild bank from anywhere.
 
-<img width="599" height="495" alt="image" src="https://github.com/user-attachments/assets/577b6b5c-6ea3-4497-9c71-8bb3f7a6fb9c" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/501c068a-bb2d-4e95-b9fb-9e3a70cdee2f" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/730717ba-f8be-48d2-ac67-9ba645c1117d" />
+
+
 
 
 ## What it does
